@@ -1,0 +1,1 @@
+ALTER TABLE medico_paciente ADD COLUMN dataConsulta TIMESTAMP;
